@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Christopher Huebner</h1> -->
 <h3 align="center">Senior Full-Stack Developer</h3>
 
-<h3 align="left"><b>Contact</b>: +1 323 456 3189</h3>
+<h3 align="left"><b>Contact</b>: +1 405 757 7349</h3>
 <p align="left">
 </p>
 
