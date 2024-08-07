@@ -2,10 +2,6 @@
 <!-- <h1 align="center">Christopher Huebner</h1> -->
 <h3 align="center">Senior Full-Stack Developer</h3>
 
-<h3 align="left"><b>Contact</b>: +1 405 757 7349</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
