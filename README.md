@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Full Stack Developer with 8 years of experience in Web and Mobile Development.
-- 🌱 I’m currently learning LLM and Blockchain solidity.
+- Open to discuss new opportunities.
 - 😄 Pronouns: He/Him.
 
 # Skills
