@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Full Stack Developer with 8 years of experience in Web and Mobile Development.
 - Open to discuss new opportunities.
-- 😄 Pronouns: He/Him, Contact: coding.kei@gmail.com
 
 # Skills
 <table align="center">
